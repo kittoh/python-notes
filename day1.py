@@ -3,8 +3,7 @@
 # FIRST PROGRAM, PRINTING STATEMENTS
 
 # print, is function that displays text(string)
-# anything within a set of single(' ') and double(" ") 
-# quotes are strings
+# anything within a set of single(' ') and double(" ") quotes are strings
 
 print("This will be a print statement")
 print('Print THIS!')
@@ -15,8 +14,7 @@ print('AGAIN!')
 # anything that is after the # will be ignored when the program is run
 
 # a set of single quotes(' ') within a double quoted(" ") strings 
-# or vice-versa, is considered a part of the string thus will be 
-# included in printing
+# or vice-versa, is considered a part of the string thus will be included in printing
 
 print("Ain't 'easy', is it?")
 print('Do "it" please?')
@@ -45,8 +43,8 @@ Second line
 "5th line!"
 """)
 
-# Printing of statements can be used for displaying descriptive
-# results or anything you want to know about anything within your program
+# Printing of statements can be used for displaying descriptive results 
+# or anything you want to know about anything within your program
 
 #---------------------------------------------------------------------------#
 # NUMBERS AND OPERATIONS
@@ -66,8 +64,8 @@ print("Subtraction: 8 - 4 = ", 8 - 4)
 print("Remainder: 7 % 2 = ", 7 % 2)
 print("Remainder: 10 % 5 = ", 10 % 5)
 
-# the <, > symbols ask if its less than or greater than and 
-# returns True or False
+# the <, > symbols ask for comparison, if the values are less than or greater than 
+# then returns True or False
 # the == symbol, checks for equality and also returns True or False
 
 print("Is 8 greater than 12?", 8 > 12)
@@ -76,7 +74,7 @@ print("Is 10 equal to 15", 10 == 15)
 #---------------------------------------------------------------------------#
 # VARIABLES
 
-# Strings and numbers can be assigned to Variables
+# Strings and numbers can be assigned to variables
 # Strings are assigned within single or double quotes
 # Numbers(Integers or Float) are assigned just by putting the numbers
 
@@ -94,8 +92,7 @@ height_in_feet = (height_in_meters * 100 / 2.54) / 12
 
 print("I'm", height_in_feet, "feet tall.")
 
-# A more efficient way of inserting Variables is thru
-# print formatting
+# A more efficient way of inserting variables is thru print formatting
 
 print(f"Hi I'm {name}!")
 print(f"I'm {age} years old.")
