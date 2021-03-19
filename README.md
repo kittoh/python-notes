@@ -1,14 +1,14 @@
 # python-notes
-__A JOURNAL OF A PYTHON LEARNER
+__A JOURNAL OF A PYTHON LEARNER__
 
-_Main Reference: Learn Python the Hard Way by Zed A. Shaw
+_Main Reference: Learn Python the Hard Way by Zed A. Shaw_
 
 Hi, I’m Kit Hernandez, I’m taking a leap into the wonderful world of coding. Starting out 
 the path into the Python universe. This is my learning journal as I go beyond this road. 
 Hoping this would be useful to some who are also just starting out to embark into the same 
 journey I am taking.
 
-_To anyone reading this:
+_To anyone reading this:_
 
 This journal is useful to absolute beginners who are interested to learn python.
 
