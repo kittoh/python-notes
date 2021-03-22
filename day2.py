@@ -44,7 +44,7 @@ print(f"Okay {username}, we're going to the {place_to_go}.")
 
 from sys import argv
 
-# defined the argument for the file name to be opened
+# defined the placeholder for the file name to be opened
 script, filename = argv
 
 # opens the file name, make sure it's in the same directory as the script
