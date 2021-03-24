@@ -61,6 +61,8 @@ print("Now print more lines.")
 current_line = 1
 print_a_line(current_line, current_file)
 
+# +=, increments the value of the variable by any amount placed
+# same as saying x = x + y is equal to x += y
 current_line += 1
 print_a_line(current_line, current_file)
 
