@@ -41,3 +41,34 @@ print(f"Closing the {filename}...")
 target.close()
 
 #---------------------------------------------------------------------------#
+ 
+from sys import argv
+from os.path import exists
+
+
+script, from_file, to_file = argv
+
+print(f"Will copy from {from_file} to {to_file}.")
+
+# opens the file that is passed as an argument
+in_file = open(from_file)
+indata = in_file.read()
+
+# prints if the file exists
+print(f"Does the file exist? {exists(to_file)}")
+print("Ready? Hit enter to continue, CTRL-C to abort.")
+input()
+
+# opens the file that will be written upon
+# this process overwrites the fileqq
+out_file = open(to_file, 'w')
+out_file.write(indata)
+
+print("DONE!")
+
+# closes both files
+out_file.close()
+in_file.close()
+
+
+#---------------------------------------------------------------------------#
