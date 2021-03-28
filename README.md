@@ -20,3 +20,24 @@ on how to run Python scripts in the terminal depending on your machine's operati
 also a lot of guides out there.
 
 So if you're good to go. Feel free to hop in!
+
+__TABLE OF CONTENTS__
+
+_Day 1_ 
+- Print Statements
+- Numbers and Operations
+- Variables
+- User Input
+
+_Day 2_
+- Parameters, Importing, Unpacking
+- File Handling: Reading Files
+
+_Day 3_
+- File Handling: Reading Files and Writing Files
+
+_Day 4_
+- Names, Variables, Functions
+- Functions and Files
+
+
