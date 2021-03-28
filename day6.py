@@ -37,4 +37,5 @@ main(languages, input_encoding, error)
 
 # command to run: python3.x yourscript.py utf-8 strict
 
+
 #---------------------------------------------------------------------------#
