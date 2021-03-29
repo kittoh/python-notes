@@ -61,7 +61,7 @@ print("Ready? Hit enter to continue, CTRL-C to abort.")
 input()
 
 # opens the file that will be written upon
-# this process overwrites the fileqq
+# this process overwrites the file
 out_file = open(to_file, 'w')
 out_file.write(indata)
 
