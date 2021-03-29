@@ -1,7 +1,7 @@
 # python-notes
 __A JOURNAL OF A PYTHON LEARNER__
 
-_Main Reference: Learn Python the Hard Way by Zed A. Shaw_
+_Main Reference: Learn Python 3 the Hard Way by Zed A. Shaw_
 
 Hi, I’m Kit Hernandez, I’m taking a leap into the wonderful world of coding. Starting out 
 the path into the Python universe. This is my learning journal as I go beyond this road. 
@@ -40,4 +40,19 @@ _Day 4_
 - Names, Variables, Functions
 - Functions and Files
 
+_Day 5_
+- Function returning Values
 
+_Day 6_ 
+- String, Bytes and Character Encoding
+
+_Practice 1_
+- Printing
+- Numbers and Operations
+- Functions
+
+_Practice 2_
+- More Functions
+
+_Quiz 1_
+- Debugging Exercise
