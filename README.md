@@ -59,4 +59,5 @@ _Day 7_
     - Debugging Exercise
 
 _Day 8_
-- 
+- Understanding Logic
+
