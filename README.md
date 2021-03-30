@@ -46,13 +46,17 @@ _Day 5_
 _Day 6_ 
 - String, Bytes and Character Encoding
 
-_Practice 1_
-- Printing
-- Numbers and Operations
-- Functions
+_Day 7_
+- Practice 1
+    - Printing
+    - Numbers and Operations
+    - Functions
 
-_Practice 2_
-- More Functions
+- Practice 2
+    - More Functions
 
-_Quiz 1_
-- Debugging Exercise
+- Quiz 1
+    - Debugging Exercise
+
+_Day 8_
+- 
