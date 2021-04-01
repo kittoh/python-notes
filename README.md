@@ -69,4 +69,6 @@ _Day 10 - 1_
 - While Loops
 
 _Day 10 - 2_
--
+- Accessing the Elements of Lists
+- Branches and Functions
+
