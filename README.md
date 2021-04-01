@@ -64,3 +64,9 @@ _Day 8_
 _Day 9_
 - If, Elif, Else Statements
 
+_Day 10 - 1_
+- Loops and Lists: for loops
+- While Loops
+
+_Day 10 - 2_
+-
