@@ -1,0 +1,26 @@
+#---------------------------------------------------------------------------#
+# LEARNING TO SPEAK OBJECT ORIENTED
+
+# class, indicates the creation of a class
+# object, an instance of a class
+# instance, creates an object using a class
+# def, defines a function 
+# self, variable that pertains to the object being instantiated
+# inheritance, the capability of a class to obtain the traits/attributes of another class
+# composition, the capability of a class to be composed of other class
+# attribute, a trait/property classes have that are from compositions
+# is-a, a phrase that tells that something inherits from another class
+# has-a, a phrase that tells that something is composed of traits/methods from other class
+
+
+# PHRASE DRILLS
+
+# class X(Y), creates a class X that is a Y
+# class X(object): def __init__(self, J), creates a class X that has-a init method that
+                                          takes self and J as parameters
+# class X(object): def M(self, J), creates a class X that has method M that takes self 
+                                   J as parameters
+# foo = X(), sets foo to an instance of class X
+# foo.M(J), from foo, takes method M, then uses self and J as parameters
+# foo.K = Q, from foo, gets the K attribute, then sets it to Q
+
