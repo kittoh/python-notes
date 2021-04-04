@@ -72,3 +72,19 @@ _Day 10 - 2_
 - Accessing the Elements of Lists
 - Branches and Functions
 
+_Day 11 - 1_
+- Doing Things to List
+- Dictionaries
+
+_Day 11 - 2_
+- Modules, Classes and Objects
+
+_Day 12_
+- Learning to Speak Object Oriented
+- Is-a, has-a, Objects and Classes
+- OOP Terminologies
+
+_Day 13_
+- Inheritance vs Composition
+
+
