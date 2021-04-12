@@ -3,8 +3,8 @@
 #---------------------------------------------------------------------------#
 # NAMES, VARIABLES, CODES, FUNCTIONS
 
-# Functions, these are sets of codes that takes arguments
-# for it to run as a command
+# Functions, these are sets of codes that does a certain action
+# sometimes it takes parameters, sometimes it don't
 # def, is the keyword that defines a functions
 # then followed by any name for your function you want to have
 # * in *args means the function takes any number of arguments
@@ -18,7 +18,7 @@ from sys import argv
 
 script, x, y = argv
 
-# takes arguments from argv variables
+# sets x, y as function parameters
 # since these arguments are strings, it should be converted to an integer
 # so that it can be used in math operations
 def sum(x, y):
