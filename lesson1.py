@@ -1,16 +1,16 @@
 #---------------------------------------------------------------------------#
-# DAY 1
+# LESSON 1
 #---------------------------------------------------------------------------#
 # FIRST PROGRAM, PRINTING STATEMENTS
 
-# print, is function that displays text(string)
+# print, a function that displays text
 # anything within a set of single(' ') and double(" ") quotes are strings
 print("This will be a print statement")
 print('Print THIS!')
 print('AGAIN!')
 
 # This is a comment! @#$%^&*(!?!
-# the hash symbol #, makes the succeeding characters a comment, 
+# the hash symbol #, makes the succeeding characters a comment
 # anything that is after the # will be ignored when the program is run
 
 # a set of single quotes(' ') within a double quoted(" ") strings 
