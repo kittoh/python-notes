@@ -23,30 +23,30 @@ So if you're good to go. Feel free to hop in!
 
 __TABLE OF CONTENTS__
 
-_Day 1_ 
+_Lesson 1_ 
 - Print Statements
 - Numbers and Operations
 - Variables
 - User Input
 
-_Day 2_
+_Lesson 2_
 - Parameters, Importing, Unpacking
 - File Handling: Reading Files
 
-_Day 3_
+_Lesson 3_
 - File Handling: Reading Files and Writing Files
 
-_Day 4_
+_Lesson 4_
 - Names, Variables, Functions
 - Functions and Files
 
-_Day 5_
+_Lesson 5_
 - Function returning Values
 
-_Day 6_ 
+_Lesson 6_ 
 - String, Bytes and Character Encoding
 
-_Day 7_
+_Lesson 7_
 - Practice 1
     - Printing
     - Numbers and Operations
@@ -58,33 +58,33 @@ _Day 7_
 - Quiz 1
     - Debugging Exercise
 
-_Day 8_
+_Lesson 8_
 - Understanding Logic
 
-_Day 9_
+_Lesson 9_
 - If, Elif, Else Statements
 
-_Day 10 - 1_
+_Lesson 10 - 1_
 - Loops and Lists: for loops
 - While Loops
 
-_Day 10 - 2_
+_Lesson 10 - 2_
 - Accessing the Elements of Lists
 - Branches and Functions
 
-_Day 11 - 1_
+_Lesson 11 - 1_
 - Doing Things to List
 - Dictionaries
 
-_Day 11 - 2_
+_Lesson 11 - 2_
 - Modules, Classes and Objects
 
-_Day 12_
+_Lesson 12_
 - Learning to Speak Object Oriented
 - Is-a, has-a, Objects and Classes
 - OOP Terminologies
 
-_Day 13_
+_Lesson 13_
 - Inheritance vs Composition
 
 
