@@ -26,8 +26,8 @@ def sum(x, y):
 
 print(sum(x, y))
 
-# command to run: python your_script.y 1 2
-# 1 and 2 could be any number
+# command to run: python your_script.y {first_number} {second_number}
+# the above command will print the sum of the two numbers
 
 #---------------------------------------------------------------------------#
 # FUNCTIONS AND FILES
